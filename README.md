@@ -23,5 +23,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelShaura&layout=compact)](https://github.com/PavelShaura/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavelShaura)](https://github.com/PavelShaura/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PavelShaura&theme=solarized_dark)
