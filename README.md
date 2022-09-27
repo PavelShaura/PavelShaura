@@ -24,3 +24,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelShaura&layout=compact)](https://github.com/PavelShaura/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavelShaura)](https://github.com/PavelShaura/github-readme-stats)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=PavelShaura)](https://github.com/ashutosh00710/github-readme-activity-graph
