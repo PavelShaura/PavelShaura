@@ -19,7 +19,8 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelShaura)](https://github.com/PavelShaura/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelShaura&layout=compact)](https://github.com/PavelShaura/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavelShaura)](https://github.com/PavelShaura/github-readme-stats)
