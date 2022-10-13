@@ -25,4 +25,4 @@ Languages and Tools:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PavelShaura&theme=solarized_dark)
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+[![codewars](https://www.codewars.com/users/PavelShaura/badges/large)](https://www.codewars.com/users/PavelShaura)
